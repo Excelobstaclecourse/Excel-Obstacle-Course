@@ -1,7 +1,7 @@
 # Excel-Obstacle-Course
 Home of the Excel Obstacle Course, the easiest ways to build muscle memory for Excel Shortcuts!
 
-NOTE: if you have issues with Excel restricting macros (the timer is macro based), you will need to right click on the file, go to properties and check "Unblock"
+NOTE: if you have issues with Excel restricting macros (the timer is macro based), you will need to save it to your desktop, right click on the file, go to properties and check "Unblock"
 Under Security
 
 When I was training Excel hotkeys to new employees, I tried to instill the benefit of using hotkeys (keyboard shortcuts) and minimizing the touchpad / mouse.
